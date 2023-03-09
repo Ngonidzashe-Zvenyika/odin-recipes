@@ -1,24 +1,38 @@
 body {
     padding-left: 2.5vw;
+    display: flex;
+    gap: 2.5vw;
+    flex-direction: column;
 }
 
+h1,
+p,
+ul,
+ol,
+h3, 
+.button {
+    width: fit-content;
+    margin: auto;
+}
 
 img {
     width: 30vw;
     height:auto;
+    margin: auto;
+    border: 2px solid black;
 }
 
 .text {
     font-family: Arial, Verdana, sans-serif;
-    font-size: medium;
-}
-
-.text.heading {
     font-size: large;
 }
 
+.text.heading {
+    font-size: x-large;
+}
+
 .text.small {
-    font-size: small;
+    font-size: medium;
 }
 
 .text.button {
@@ -29,7 +43,6 @@ img {
     text-align: center;
     border: 1px solid black;
     text-decoration: none;
-    display: inline-block;
     cursor: pointer;
 }
 
