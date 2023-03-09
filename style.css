@@ -5,16 +5,6 @@ body {
     flex-direction: column;
 }
 
-h1,
-p,
-ul,
-ol,
-h3, 
-.button {
-    width: fit-content;
-    /*margin: auto;*/
-}
-
 ul,
 ol,
 h1 {
