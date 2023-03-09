@@ -2,7 +2,7 @@
 `Project No.1`
 
 ## Purpose
-Practice use of `HTML` and `CSS` skills
+To practice my use of `HTML` and `CSS`
 
 #### Layout:
 * The Odin Project
